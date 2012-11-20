@@ -2,12 +2,25 @@
     BASIC RESET - please use a better one in production
 \*----------------------------------------------------------------------------------------------------------------*/
 * {
-	margin: 0;
-	padding: 0;
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    color: #333;
 }
 
 .pageContainer {
-	padding: 30px 0;
+    padding: 30px 0;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.textContainer {
+    padding-top: 20px;
+    
+    text-align: center;
 }
 
 

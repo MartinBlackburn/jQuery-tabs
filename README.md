@@ -30,9 +30,11 @@ With JavaScript enabled the links will show the required tab and hide the others
 
 .tabs contains the links to each tab and all the tabs content.
 
-.tabControls are the links to each tab. The href will point to a tabContent with the same ID.
+.tabControls are the links to each tab. The href will point to a tabContent element with the same ID.
 
-.tabcontent holds the content for each tab, it needs an ID that matches the href of the link to it.
+.tabContent holds the content for each tab, it needs an ID that matches the href of the link to it.
+
+[View it in action here](http://martinblackburn.github.com/jQuery-tabs/)
 
 ###Notes
 The tabs was built using jQuery 1.8.2
