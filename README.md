@@ -37,4 +37,4 @@ With JavaScript enabled the links will show the required tab and hide the others
 [View it in action here](http://martinblackburn.github.com/jQuery-tabs/)
 
 ###Notes
-The tabs was built using jQuery 1.8.2
+This should work with jQuery 1.10.1
